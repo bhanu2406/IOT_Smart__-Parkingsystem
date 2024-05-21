@@ -63,4 +63,5 @@ lcd.print(Total);
 lcd.setCursor (0,1);
 lcd.print("Have  Space: ");
 lcd.print(Space);
+lcd.print(Space);
 }
